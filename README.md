@@ -1,2 +1,2 @@
 # h5
-#input{}
+#input{type=text}
